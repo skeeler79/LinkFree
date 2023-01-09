@@ -1,0 +1,30 @@
+{
+  "name": "Sabrina Keeler",
+  "displayStatsPublic": true,
+  "type": "personal",
+  "bio": "Proactive team player transistioning into a career in tech.",
+  "avatar": "https://github.com/skeeler79.png",
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/SabrinaSKeeler",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Connect on LinkedIn",
+      "url": "https://www.linkedin.com/in/sabrina-keeler/",
+      "icon": "FaLinkedin"
+    },
+    {
+      "name": "Check out my posts on Medium",
+      "url": "https://medium.com/@sabrina.s.keeler",
+      "icon": "SiMedium"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/skeeler79",
+      "icon": "FaGithub"
+    }
+     
+  ]
+}
